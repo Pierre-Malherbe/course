@@ -5,8 +5,9 @@
 ## Devops
 
 * [Docker](devops/docker/README.md)
-  * [Partie 1](devops/docker/partie-1/README.md)
-    * [Partie A](devops/docker/partie-1/partie-a.md)
+  * [1\) Introduction](devops/docker/partie-1/README.md)
+    * [Qu'est ce que Docker ?](devops/docker/partie-1/partie-a.md)
+    * [Installation](devops/docker/partie-1/installation.md)
 * [Kubernetes](devops/kubernetes.md)
 
 ## Programmation

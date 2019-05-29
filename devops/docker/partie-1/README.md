@@ -1,2 +1,2 @@
-# Partie 1
+# 1\) Introduction
 
